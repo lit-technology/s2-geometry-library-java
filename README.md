@@ -1,7 +1,7 @@
 # S2 Geometry Library Java
 
-[![Release](https://jitpack.io/v/philip-bui/input-validator.svg)](https://jitpack.io/#philip-bui/s2-geometry-library-java)
-[![Downloads](https://jitpack.io/v/philip-bui/input-validator/month.svg)](https://jitpack.io/#philip-bui/s2-geometry-library-java)
+[![Release](https://jitpack.io/v/philip-bui/s2-geometry-library-java.svg)](https://jitpack.io/#philip-bui/s2-geometry-library-java)
+[![Downloads](https://jitpack.io/v/philip-bui/s2-geometry-library-java/month.svg)](https://jitpack.io/#philip-bui/s2-geometry-library-java)
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://github.com/google/s2-geometry-library-java/blob/master/LICENSE)
 
 ## Installation
